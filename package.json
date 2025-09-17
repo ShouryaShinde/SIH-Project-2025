@@ -1,6 +1,5 @@
 {
   "name": "sih-project-2025",
-  "type" :"module",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -14,13 +13,14 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/ShouryaShinde/SIH-Project-2025/issues"
   },
   "homepage": "https://github.com/ShouryaShinde/SIH-Project-2025#readme",
   "dependencies": {
     "body-parser": "^2.2.0",
+    "ejs": "^3.1.10",
     "express": "^5.1.0"
   }
 }
