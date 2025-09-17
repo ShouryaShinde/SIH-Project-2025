@@ -10,7 +10,7 @@ app.use(bodyParser.urlencoded({extended : true})) ;
 
 //Route Handling
 app.get("/" , (req,res) => {
-  res.render("index.ejs" , {posts}) ;
+  res.render("index.ejs") ;
 });
 
 
