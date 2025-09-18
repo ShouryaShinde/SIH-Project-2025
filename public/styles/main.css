@@ -26,7 +26,7 @@
 }
 .hero{
     height:600px;
-    background-image:url("hero3.jpg");
+    background-image:url("../images/hero3.jpg");
     background-size:cover;
 }
 .hero-last{
@@ -61,7 +61,7 @@
     background-color:rgb(223, 254, 234);
     border:none;
     border-radius:9px;
-    background-image:url("block11.jpg");
+    background-image:url("../images/block11.jpg");
     background-size:cover;
     transition:transform 0.3s ease;
 }
@@ -71,7 +71,7 @@
     background-color:white;
     border:none;
     border-radius:6px;
-    background-image:url("block2-1.jpg");
+    background-image:url("../images/block2-1.jpg");
     background-size:cover;
     transition:transform 0.3s ease;
 }
@@ -81,7 +81,7 @@
     background-color:white;
     border:none;
     border-radius:6px;
-    background-image:url("block3-2.jpg");
+    background-image:url("../images/block3-2.jpg");
     background-size:cover;
     transition:transform 0.3s ease;
 }
